@@ -1,0 +1,1 @@
+Hello, my name is Jack. This document exists to test my cool new program. Essentially, it will parse through text files, seperate the sentences, determine if they are positive or negative, and then include or replace them in the output as necessary. Pretty cool, huh? 
